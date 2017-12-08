@@ -1,2 +1,2 @@
-# traduttore_matlab_c
-Piccolo programma che converte pezzi di codice in Matlab in pezzi di codice in C 
+#  Translate Matlab code to C
+Simple program to translate basic matlab code pieces (if,else constructs, loops, etc) into C 
